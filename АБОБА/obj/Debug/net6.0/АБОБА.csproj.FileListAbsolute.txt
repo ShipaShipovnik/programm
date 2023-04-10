@@ -1,0 +1,5 @@
+D:\ИСП21.2А\АБОБА\obj\Debug\net6.0\АБОБА.csproj.AssemblyReference.cache
+D:\ИСП21.2А\АБОБА\obj\Debug\net6.0\АБОБА.GeneratedMSBuildEditorConfig.editorconfig
+D:\ИСП21.2А\АБОБА\obj\Debug\net6.0\АБОБА.AssemblyInfoInputs.cache
+D:\ИСП21.2А\АБОБА\obj\Debug\net6.0\АБОБА.AssemblyInfo.cs
+D:\ИСП21.2А\АБОБА\obj\Debug\net6.0\АБОБА.csproj.CoreCompileInputs.cache
